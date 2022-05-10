@@ -3,9 +3,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OutCraft-Mods&bg_color=75,fffefe,77aaed)
 
-I make Minecraft Forge mods in my free time and mostly use Java.
+**I make Minecraft Forge mods in my free time and mostly use Java.**
 
-## I like:
+### I like:
  - Programming
  - Minecraft Mods
  - Java
@@ -14,9 +14,12 @@ I make Minecraft Forge mods in my free time and mostly use Java.
  - Robots
  - Tabs instead of spaces
 
-## I don't like:
+### I don't like:
  - Spaces instead of tabs
  - Messy code
  - Not working code
  - Doing textures for my mods
  - Not StopModRepost
+
+## Contact me
+If you want to contact me, you can send me an email: `yt.outcraft@gmail.com`
