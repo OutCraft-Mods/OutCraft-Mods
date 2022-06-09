@@ -15,11 +15,10 @@
  - Tabs instead of spaces
 
 ### I don't like:
- - Spaces instead of tabs
+ - Dark Mode (sorry but I prefer Light Mode)
  - Messy code
  - Not working code
  - Doing textures for my mods
- - Not StopModRepost
 
 ## Contact me
 If you want to contact me, you can send me an email: `yt.outcraft@gmail.com`
