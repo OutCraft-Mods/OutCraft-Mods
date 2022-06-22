@@ -32,7 +32,7 @@ body:
     id: game-log-crash
     attributes:
       label: Game Log / Crash
-      description: A **[Github Gist](https://gist.github.com/)** link to the full `debug.log` file. You can find it in `.minecraft\\logs\\debug.log`. If the bug type is a *Crash* please also provide a link to the crash report. You can find it in `.minecraft\\crash-reports\\crash-<date>.txt`
+      description: A **[Github Gist](https://gist.github.com/)** link to the full `debug.log` file. You can find it in `.minecraft\logs\debug.log`. If the bug type is a *Crash* please also provide a link to the crash report. You can find it in `.minecraft\crash-reports\crash-<date>.txt`
       placeholder: "https://gist.github.com/YourName/abcdefghijklmnopqrstuvwxyx012345"
   - type: textarea
     id: steps
