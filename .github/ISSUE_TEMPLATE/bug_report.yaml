@@ -38,25 +38,32 @@ body:
     attributes:
       label: Steps to Reproduce
       description: A list of how you encountered this bug.
-      placeholder: "1. Start Minecraft|2. Generate a new world|3. Summon Killerzombie|4. '....'|5. Minecraft and all other opened programs crash and my pc gets hacked"
+      placeholder: |
+        1. Start Minecraft
+        2. Generate a new world
+        3. Summon Killerzombie
+        4. '....'
+        5. Minecraft and all other opened programs crash and my pc gets hacked
     validations:
       required: true
   - type: textarea
     attributes:
       label: What You Expect To Happen
       description: Describe what you thought was supposed to have happened. Don't worry if you think what you expected may be wrong.
+      placeholder: "Minecraft shouldn't crash and my pc shouldn't get hacked"
     validations:
       required: true
   - type: textarea
     attributes:
       label: What Actually Happened
       description: Describe what happened to you that wasn't to expectations.
+      placeholder: "Minecraft crashed and my pc got hacked!!1!1"
     validations:
       required: true
   - type: textarea
     attributes:
       label: Other Details / Screenshots
       description: If applicable, add other details and/or screenshots to help explain your problem.
-      placeholder: "I didn't install a Virus"
+      placeholder: "I didn't install a Virus before using the mod"
     validations:
       required: false
