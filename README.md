@@ -3,7 +3,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OutCraft-Mods&bg_color=75,fffefe,77aaed)
 
-**I make Minecraft Forge mods in my free time and mostly use Java.**
+**I make Minecraft Forge mods in my free time with Java.**
 
 ### I like:
  - Programming
